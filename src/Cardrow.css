@@ -1,0 +1,14 @@
+/* src/CardRow.css */
+
+.card-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Optional: To set a maximum width for the row of cards */
+  .card-row {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
